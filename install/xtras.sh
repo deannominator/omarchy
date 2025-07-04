@@ -1,6 +1,5 @@
 yay -S --noconfirm --needed \
-  signal-desktop spotify dropbox-cli zoom \
-  obsidian typora libreoffice obs-studio kdenlive \
+  typora libreoffice obs-studio kdenlive \
   pinta xournalpp
 
 # Copy over Omarchy applications
